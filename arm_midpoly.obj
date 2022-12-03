@@ -1,6 +1,6 @@
 # Blender 3.3.1
 # www.blender.org
-mtllib leg_midpoly.mtl
+mtllib arm_midpoly.mtl
 o 11535_arm_V3_
 v 1.218693 5.499899 -0.582369
 v 1.856358 2.541131 -2.625400
